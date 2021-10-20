@@ -1,0 +1,47 @@
+{"level":"info","ts":1600319551819,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600319551820,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600320268763,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+00319567542,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600319567598,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"listen tcp 127.0.0.1:8881: bind: address already in use"}
+{"level":"info","ts":1600319570082,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600319570083,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1600319597074,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600319597074,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8883"}
+{"level":"info","ts":1600320271081,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320271081,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600320276124,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320278310,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320278310,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600320278353,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"listen tcp 127.0.0.1:8881: bind: address already in use"}
+{"level":"info","ts":1600320283030,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320283030,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1600320287003,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320288861,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320288862,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1600320288924,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"listen tcp 127.0.0.1:8882: bind: address already in use"}
+{"level":"info","ts":1600320291446,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320291447,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8883"}
+{"level":"info","ts":1600320332655,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320337925,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320343056,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320413864,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320413865,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8883"}
+{"level":"info","ts":1600320418424,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320418424,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1600320422952,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320422952,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600320647084,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320665255,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320666864,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600320668608,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320668608,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8883"}
+{"level":"info","ts":1600320672438,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320672438,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8882"}
+{"level":"info","ts":1600320675885,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600320675885,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8881"}
+{"level":"info","ts":1600321126617,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600321161607,"caller":"utils/log_util.go:89","msg":"[NewLogger] success"}
+{"level":"info","ts":1600321161608,"caller":"user_agent/main.go:75","msg":"[user_agent] run 127.0.0.1:8883"}
+{"level":"info","ts":1600386765401,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600386767781,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}
+{"level":"info","ts":1600386769351,"caller":"user_agent/main.go:78","msg":"[user_agent] quit err","error":"interrupt"}

@@ -1,0 +1,6 @@
+{"level":"warn","ts":1600319567543,"caller":"user_agent/main.go:57","msg":"[user_agent] Listen","error":"listen tcp 127.0.0.1:8881: bind: address already in use"}
+{"level":"warn","ts":1600320278311,"caller":"user_agent/main.go:57","msg":"[user_agent] Listen","error":"listen tcp 127.0.0.1:8881: bind: address already in use"}
+{"level":"warn","ts":1600320288862,"caller":"user_agent/main.go:57","msg":"[user_agent] Listen","error":"listen tcp 127.0.0.1:8882: bind: address already in use"}
+{"level":"warn","ts":1600320437194,"caller":"utils/zap_log_error_handler.go:20","msg":"[1d1521e0-39c9-5aae-bea5-a308d0749e3a]","error":"用户信息错误"}
+{"level":"warn","ts":1600320437195,"caller":"utils/zap_log_error_handler.go:20","msg":"[72acd6b0-44d9-57d2-b295-64551f93ce98]","error":"limit req  Allow"}
+{"level":"warn","ts":1600320437195,"caller":"utils/zap_log_error_handler.go:20","msg":"[055413b4-69de-5662-8f49-2c743e34b773]","error":"用户信息错误"}

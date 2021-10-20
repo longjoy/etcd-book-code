@@ -1,0 +1,4 @@
+GET http://localhost:8001/users
+Accept: application/json
+
+###

@@ -21,8 +21,10 @@
 ![](http://image.blueskykong.com/etcd-rec-2fdff37f.png)
 
 #### 勘误与交流
-作者已尽最大努力确保正文和代码没有问题。可是，金无足赤，疏漏在所难免。如果书中有错误，希望您能及时反馈给我们。我们将诚挚接受广大读者的批评指正，您可以添加wx：aoho2012（勘误，指正批评以及技术交流）。勘误将发布在作者公众号上：aoho求索。
+作者已尽最大努力确保正文和代码没有问题。可是，金无足赤，疏漏在所难免。如果书中有错误，希望您能及时反馈给我们。我们将诚挚接受广大读者的批评指正，您可以添加wx：[aoho2012](http://image.blueskykong.com/aoho-wechat.jpg) （勘误，指正批评以及技术交流）。勘误将发布在作者公众号上：aoho求索。
 
-您也可以通过下面的二维码添加本书的读者群。
+
+
+您也可以通过**链接的[二维码](http://image.blueskykong.com/aoho-wechat.jpg)加入本书的读者群** ，或者关注作者的公众号。
 
 ![微信公众号](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8f97e4a437924e74bb1b4c6ca4957539~tplv-k3u1fbpfcp-zoom-1.image)

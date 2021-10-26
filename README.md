@@ -18,11 +18,9 @@
 
 在掌握了etcd相关知识点的情况下，在应用实践部分将会带你学习etcd clientv3的具体应用，包括如何基于etcd实现分布式锁应用，以及如何在微服务中集成 etcd 作为服务注册与发现中心；最后我们会分析在 Kubernetes 中如何基于 etcd 完成容器的调度。
 
-![](http://image.blueskykong.com/etcd-rec-2fdff37f.png)
-
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/41d003c3b35f4d409c8ea72245f8d40b~tplv-k3u1fbpfcp-zoom-1.image)
 #### 勘误与交流
 作者已尽最大努力确保正文和代码没有问题。可是，金无足赤，疏漏在所难免。如果书中有错误，希望您能及时反馈给我们。我们将诚挚接受广大读者的批评指正，您可以添加wx：[aoho2012](http://image.blueskykong.com/aoho-wechat.jpg) （勘误，指正批评以及技术交流）。勘误将发布在作者公众号上：aoho求索。
-
 
 
 您也可以通过**链接的[二维码](http://image.blueskykong.com/aoho-wechat.jpg)加入本书的读者群** ，或者关注作者的公众号。
